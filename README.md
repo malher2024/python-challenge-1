@@ -28,5 +28,9 @@ Once the order is completed. The application will provide the final order
 
 ![Screenshot6](FinalOrder.png)
 
+Contact information:
+
+Albert Hernandez (hernama@cpchem.com)
+GitHub account: malher2024@gmail.com
 
 
